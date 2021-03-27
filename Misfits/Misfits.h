@@ -11,6 +11,7 @@
 
 This is about the misfits... And the all the moments
 Nithin and anto are going to check the changes.......
+Checking how the pull functionality works
 // include library to read and write from flash memory
 #include <EEPROM.h>
 // define the number of bytes you want to access
